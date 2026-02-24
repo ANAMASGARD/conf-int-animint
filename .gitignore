@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
+index.html
+plot.json
+vendor/
+*.tsv
