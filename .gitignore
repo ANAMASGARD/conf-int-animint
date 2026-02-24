@@ -2,14 +2,6 @@
 .Rhistory
 .RData
 .DS_Store
-index.html
-plot.json
-vendor/
-*.tsv
-# animint output
+
+# animint output (local only)
 local_output/
-animint.css
-animint.js
-plot.json
-geom*_chunk1.tsv
-vendor/
