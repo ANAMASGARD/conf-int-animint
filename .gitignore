@@ -6,3 +6,10 @@ index.html
 plot.json
 vendor/
 *.tsv
+# animint output
+local_output/
+animint.css
+animint.js
+plot.json
+geom*_chunk1.tsv
+vendor/
